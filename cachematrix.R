@@ -1,7 +1,7 @@
 ## 1.  Put comments here that give an overall description of what your	
 
 #Ans:-
-## Aim in this experiment is to write a pair of functions, namely, 
+## Aim in this experiment is to write a pair of functions, namely.
 
 ## 2. functions do	
  
